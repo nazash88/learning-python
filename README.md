@@ -4,8 +4,8 @@ Here are my study notes for learning Python
 
 Add
 
-- What is supposed to be here?
+- Read the ebook with the link: https://automatetheboringstuff.com/2e/
 
-- What problem has to be solved here?
+- In this book, you will learn all the python basics including working with spreadsheets.
 
-- What is next?
+- After reading the basics, we will go into spreadsheets and Webscraping. 
